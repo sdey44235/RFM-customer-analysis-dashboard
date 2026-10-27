@@ -1,10 +1,12 @@
 # RFM Customer Analysis Dashboard
+An interactive customer segmentation dashboard built with Python and Streamlit using RFM (Recency, Frequency, Monetary) analysis.
+
 # Live Dashboard
 Open RFM Customer Analysis Dashboard: (https://rfm-customer-analysis-sayan.streamlit.app/)
 
 # Dashboard Preview
+![RFM Customer Analysis Dashboard](screenshots/rfm-dashboard.png)
 
-An interactive customer segmentation dashboard built with Python and Streamlit using RFM (Recency, Frequency, Monetary) analysis.
 
 # Project Overview
 
